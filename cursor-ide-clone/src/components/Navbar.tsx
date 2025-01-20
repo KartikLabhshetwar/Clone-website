@@ -14,7 +14,7 @@ export default function Navbar() {
 
     return (
         <nav>
-            <div className="bg-black px-4 py-4 flex items-center justify-between rounded-2xl m-10">
+            <div className="bg-black px-4 py-4 flex items-center justify-between rounded-2xl">
                 
                 <div className="flex items-center space-x-2">
                     <img src="../../public/cursor.webp" className="h-8" />
